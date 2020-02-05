@@ -1,0 +1,21 @@
+{
+  "name": "josebaml-framework",
+  "version": "1.0.0",
+  "description": "Framework propio para realizar proyectos web",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josebaml/frameworkCSS.git"
+  },
+  "author": "@Josebaml",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josebaml/frameworkCSS/issues"
+  },
+  "homepage": "https://github.com/josebaml/frameworkCSS#readme"
+}
